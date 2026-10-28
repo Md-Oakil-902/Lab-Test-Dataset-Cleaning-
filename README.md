@@ -45,7 +45,7 @@ pip install pandas numpy notebook
 
 ## What the notebook does
 
-| Step | Problem | Fix |
+| Step | Problem | Fix |ff
 |---|---|---|
 | 1 | Data types guessed wrongly | Read every column as text first |
 | 2 | Hidden spelling differences | Use `value_counts()` to find them |
